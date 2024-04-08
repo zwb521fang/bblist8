@@ -1,5 +1,5 @@
 {
-  "name": "bblist9",
+  "name": "bblist8",
   "version": "1.0.0",
   "description": "common toolkit",
   "main": "index.js",
@@ -8,8 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "name": "bblist9",
-    "url": "git+https://github.com/zwb521fang/bblist9.git"
+    "name": "bblist8",
+    "url": "git+https://github.com/zwb521fang/bblist8.git"
   },
   "keywords": [
     "[\"utils\"",
@@ -20,12 +20,12 @@
   "author": "zwb21fang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zwb521fang/bblist9/issues"
+    "url": "https://github.com/zwb521fang/bblist8/issues"
   },
-  "homepage": "https://github.com/zwb521fang/bblist9#readme",
+  "homepage": "https://github.com/zwb521fang/bblist8#readme",
   
   "dependencies": {
-    "bblist8": "^1.0.0",
+    "bblist9": "^1.0.0",
     "bblist7": "^1.0.0",
     "bblist6": "^1.0.0",
     "bblist5": "^1.0.0",
